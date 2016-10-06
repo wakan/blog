@@ -7,4 +7,6 @@ categories = [ "Blog", "Hugo" ]
 
 Après m'être un peu familiarisé avec hugo, j'ai bien un blog disponnible sur github.
 C'est assez déconcertant de facilité.
+
+Test d'intégration d'une vidéo youtube
 {{< youtube miZN_ECkVtk >}}
