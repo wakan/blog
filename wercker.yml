@@ -12,4 +12,3 @@ deploy:
         token: $GIT_TOKEN
         repo: wakan/blog
         basedir: public
-        
