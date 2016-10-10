@@ -10,5 +10,6 @@ deploy:
         packages: git ssh-client
     - lukevivier/gh-pages:
         token: $GIT_TOKEN
+        repo: wakan/blog
         basedir: public
         
