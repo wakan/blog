@@ -46,10 +46,6 @@ link = "//twitter.com/wakanpowa"
     icon_pack = "fa"
 link = "//github.com/wakan"
 
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 2
 
 [[menu.main]]
   name = "Posts"
