@@ -1,5 +1,5 @@
 baseurl = "https://wakan.github.io/blog/"
-languageCode = "fr-FR"
+languageCode = "en"
 title = "WaKaN's blog"
 theme = "academic"
 
