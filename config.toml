@@ -1,9 +1,74 @@
 baseurl = "https://wakan.github.io/blog/"
-languageCode = "en"
+languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "academic"
+copyright = "&copy; 2016 Guillaume Laurent"
 
 [taxonomies]
 tag = "tags"
 category = "categories"
 series = "series"
+
+
+
+# Enable comments by entering your Disqus shortname
+disqusShortname = "spf13"
+
+
+[params]
+  name = "Guillaume Laurent"
+  role = "Architecte développeur .Net"
+  organization = "Addixware"
+  avatar = "portrait.jpg"
+  email = "wakan_powa_s01@hotmail.fr"
+  address = "425, rue René Descarte Espace Descartes - Bât B -13857 Aix-en-Provence Cedex 3"
+phone = "+33 7 60 41 36 03"
+
+
+ date_format = "Mon 2 Jan 2006"
+
+ math = false
+
+sharing = true
+
+[[params.social]]
+    icon = "envelope"
+    icon_pack = "fa"
+link = "mailto:wakan_powa_s01@hotmail.fr"
+
+[[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+link = "//twitter.com/wakanpowa"
+
+[[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+link = "//github.com/wakan"
+
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 2
+
+[[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
+
+[[menu.main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 5
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+weight = 6
+
+
