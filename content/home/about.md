@@ -39,7 +39,7 @@ weight = 0
  
 +++
 
-# Biography
+# Résumé
 
 Passionné d'informatique, je me spécialise de plus en plus vers les technologies Microsoft à travers une veille technologique quotidienne et des expériences professionnelles de plus en plus ciblées. En témoigne mes derniers stages où j'ai eu l'opportunité d'utiliser les technologies .NET.
 
