@@ -20,22 +20,22 @@ weight = 0
 
 # List your qualifications (such as academic degrees).
 [education]
-  title = "Education"
+  title = "Etudiant"
 
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Cours d'informatique et de management"
+  institution = "SUPINFO"
+  year = 2008-2011
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Spécialisation génie logiciel"
+  institution = "IUT d'informatique aix en provence"
+  year = 2006-2008
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bac S Si"
+  institution = "Lycée Saint Louis"
+  year = 2006
  
 +++
 
