@@ -25,12 +25,12 @@ weight = 0
 [[education.courses]]
   course = "Cours d'informatique et de management"
   institution = "SUPINFO"
-  year = 2008-2011
+  year = 2011
 
 [[education.courses]]
   course = "Spécialisation génie logiciel"
   institution = "IUT d'informatique aix en provence"
-  year = 2006-2008
+  year = 2008
 
 [[education.courses]]
   course = "Bac S Si"
