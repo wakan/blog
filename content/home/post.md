@@ -2,10 +2,10 @@
 # Recent Posts widget.
 # Note: this widget will only display if `content/post/` contains posts.
 
-date = "2016-04-20T00:00:00"
+date = "2016-10-11T08:42:21"
 draft = false
 
-title = "Recent Posts"
+title = "Posts récents"
 subtitle = ""
 widget = "posts"
 
@@ -16,7 +16,6 @@ weight = 30
 count = 5
 
 # Links.
-str_all = "More Posts"
-str_read_more = "CONTINUE READING"
-
+str_all = "Plus de post"
+str_read_more = "VOIR LA SUITE"
 +++
