@@ -53,11 +53,6 @@ link = "//github.com/wakan"
   weight = 3
 
 [[menu.main]]
-  name = "Projets"
-  url = "#projects"
-  weight = 4
-
-[[menu.main]]
   name = "Contact"
   url = "#contact"
 weight = 5
