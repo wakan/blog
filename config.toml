@@ -4,16 +4,15 @@ title = "WaKaN's blog"
 theme = "academic"
 copyright = "&copy; 2016 Guillaume Laurent"
 GoogleAnalytics = "UA-69672150-1"
+# Enable comments by entering your Disqus shortname
+DisqusShortname = "wakan"
+
 
 [taxonomies]
 tag = "tags"
 category = "categories"
 series = "series"
 
-
-
-# Enable comments by entering your Disqus shortname
-disqusShortname = "wakan"
 
 
 [params]
