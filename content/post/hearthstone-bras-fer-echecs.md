@@ -6,7 +6,7 @@ categories = [ "Game", "Hearthstone" ]
 +++
 
 Si vous êtes en galère pour le bras de fer de la semaine 201640,
-il y a trois règles à garder en tête : 
+il y a quatr règles à garder en tête : 
 
 1. Lors du [mulligan](http://www.millenium.org/hearthstone-heroes-of-warcraft/accueil/actualites/le-mulligan-dans-hearthstone-mulligan-hearthstone-poussiere-des-arcanes-hs-cartes-main-de-depart-135775), garder que des pions et pas les autres pièces. Cela permet d'avoir 1 ou 2 piosn au tour 1 en fonction de la pièce et entre 2 au tour 2
 
