@@ -3,13 +3,14 @@ languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "academic"
 copyright = "&copy; 2016 Guillaume Laurent"
+GoogleAnalytics = "UA-69672150-1"
 
 [taxonomies]
 tag = "tags"
 category = "categories"
 series = "series"
 
-googleAnalytics = "UA-69672150-1"
+
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "wakan"
