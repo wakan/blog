@@ -10,6 +10,10 @@ category = "categories"
 series = "series"
 
 googleAnalytics = "UA-69672150-1"
+[Params.theme]
+ga_tracking         = true
+[Params.google.analytics]
+account = "UA-69672150-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "wakan"
