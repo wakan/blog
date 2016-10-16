@@ -5,8 +5,6 @@ title = "Remarque sur l'éditeur de markdown de dillinger"
 categories = [ "Blog", "Markdown" ]
 +++
 
-# Dillinger
-
 [Dillinger](http://dillinger.io) est un éditeur de markdown avec une interface assez responsive.
 Il a une prévisualisation instantanée du markdown avec un export pdf pour le donner à relire à quelq'un.
 
