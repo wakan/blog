@@ -9,7 +9,7 @@ tag = "tags"
 category = "categories"
 series = "series"
 
-
+googleAnalytics = "UA-69672150-1"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "spf13"
