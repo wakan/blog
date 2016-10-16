@@ -12,7 +12,7 @@ series = "series"
 googleAnalytics = "UA-69672150-1"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "spf13"
+disqusShortname = "wakan"
 
 
 [params]
