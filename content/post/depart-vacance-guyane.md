@@ -4,7 +4,7 @@ draft = false
 title = "Départ vacance pour la Guyane"
 categories = [ "Vie", "Guyane", "Vacance" ]
 +++
-On attendait à l'aéroport Marseille Provence notre avion trépignent d'impatience. Comme nous avions des tickets classes, nous étions devant la porte 42.
+On attendait à l'aéroport Marseille Provence notre avion trépignant d'impatience. Comme nous avions des tickets classes, nous étions devant la porte 42.
 
 Pour le voyage jusqu'à Paris,  j'ai écouté un peu de [stupeflip](https://www.youtube.com/user/StupeflipOfficiel) sur deezer (merci pour la promotion des 3 mois pour 0,99e).
 
