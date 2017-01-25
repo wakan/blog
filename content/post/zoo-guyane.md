@@ -13,10 +13,10 @@ les vitres pour regarder sont bien entretenues.
 Il y a un passage en hauteur un peu acrobatique pour admirer la faune de haut.
 Je vous laisse en compagnie de quelques animaux photogeniques, à bientôt pour voir dans un prochain article,
 les animaux dans leur environnement naturel.
-![caïman noir](/static/img/Caïman-noir.jpg)
-![tortue luth](/static/img/tortue-luth.jpg)
-![tapir](/static/img/tapir.jpg)
-![cabiaï](/static/img/Cabiaï.jpg)
-![cochon bois](/static/img/cochon-bois.jpg)
-![ibis rouge](/static/img/Ibis-rouge.jpg)
-![iguane](/static/img/iguane.jpg)
+![caïman noir](/img/Caïman-noir.jpg)
+![tortue luth](/img/tortue-luth.jpg)
+![tapir](/img/tapir.jpg)
+![cabiaï](/img/Cabiaï.jpg)
+![cochon bois](/img/cochon-bois.jpg)
+![ibis rouge](/img/Ibis-rouge.jpg)
+![iguane](/img/iguane.jpg)
