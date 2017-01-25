@@ -15,7 +15,7 @@ Je vous laisse en compagnie de quelques animaux photogeniques, à bientôt pour 
 les animaux dans leur environnement naturel.
 ![caïman noir](/blog/img/Caïman-noir.jpg)
 ![tortue luth](/blog/img/tortue-luth.jpg)
-![tapir](/blog/img/tapir.jpg)
+![tapir](/blog/img/Tapir.jpg)
 ![cabiaï](/blog/img/Cabiaï.jpg)
 ![cochon bois](/blog/img/cochon-bois.jpg)
 ![ibis rouge](/blog/img/Ibis-rouge.jpg)
