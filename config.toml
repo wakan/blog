@@ -2,7 +2,7 @@ baseurl = "https://wakan.github.io/blog/"
 languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "academic"
-copyright = "&copy; 2016 Guillaume Laurent"
+copyright = "&copy; 2017 Guillaume Laurent"
 GoogleAnalytics = "UA-69672150-1"
 # Enable comments by entering your Disqus shortname
 DisqusShortname = "wakanpowa"
@@ -18,10 +18,10 @@ series = "series"
 [params]
   name = "Guillaume Laurent"
   role = "Architecte développeur .Net"
-  organization = "Addixware"
+  organization = "Hopps group"
   avatar = "portrait.jpg"
   email = "wakan_powa_s01@hotmail.fr"
-  address = "425, rue René Descarte Espace Descartes - Bât B -13857 Aix-en-Provence Cedex 3"
+  address = "1330, avenue de la Lauzière, Europarc de Pichaury - Bât D5 - BP 30460, 13592 Aix-en-Provence"
 phone = "+33 7 60 41 36 03"
 
 
