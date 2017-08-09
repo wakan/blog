@@ -58,3 +58,8 @@ link = "//github.com/wakan"
 weight = 5
 
 
+[outputs]
+page = [ "HTML", "AMP" ] # if you want AMP enable.
+
+
+
