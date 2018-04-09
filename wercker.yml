@@ -8,7 +8,7 @@ build:
         code: |
             git submodule init
             git submodule update --remote --recursive
-    - arjen/hugo-build:
+    - arjen/hugo-build@1.29.1:
         version: "HEAD"
         flags: --buildDrafts=true
         disable_pygments: true
