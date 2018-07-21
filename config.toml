@@ -2,7 +2,7 @@ baseurl = "https://wakan.github.io/blog/"
 languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "academic"
-copyright = "&copy; 2017 Guillaume Laurent"
+copyright = "&copy; 2018 Guillaume Laurent"
 GoogleAnalytics = "UA-104313067-1"
 # Enable comments by entering your Disqus shortname
 DisqusShortname = "wakanpowa"
