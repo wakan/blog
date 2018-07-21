@@ -27,7 +27,7 @@ series = "series"
 [params.author]
   thumbnail = "img/wakan.jpg"
   name = "WaKaN PoWa"
-  description = "Microsoft fan"
+  description = "Microsoft fan. Pour un web meilleur."
   facebook = "//facebook.com/wakan"
   twitter = "//twitter.com/wakanpowa"
   github = "//github.com/wakan"
