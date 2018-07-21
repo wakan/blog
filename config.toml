@@ -1,4 +1,5 @@
-baseurl = "https://wakan.github.io/blog/"
+#baseurl = "https://wakan.github.io/blog/"
+baseurl = "https://ipfs.io/ipns/Qmaf2Dqi17apQHrCBjFaVCn6qRjG1EN8wdDW12HqQsqLUW"
 languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "hugo_theme_robust"
