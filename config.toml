@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://wakan.github.io/blog/"
 languageCode = "fr-FR"
 title = "WaKaN's blog"
 theme = "hugo_theme_robust"
