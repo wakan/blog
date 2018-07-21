@@ -2,6 +2,7 @@
 date = "2017-01-25T12:19:04-03:00"
 draft = false
 title = "Visite du zoo de Guyane"
+thumbnail = "img/Caïman-noir.jpg"
 categories = [ "Zoo", "Guyane", "Vacance", "Sortie" ]
 +++
 La première visite que j'ai faite en Guyane, c'est son [zoo](http://www.zoodeguyane.com/). En effet, 
