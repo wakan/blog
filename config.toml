@@ -7,8 +7,6 @@ copyright = "&copy; 2018 Guillaume Laurent"
 GoogleAnalytics = "UA-104313067-1"
 # Enable comments by entering your Disqus shortname
 DisqusShortname = "wakanpowa"
-canonifyURLs=false
-  
 
 [permalinks]
   post = "/:title/"
@@ -17,7 +15,6 @@ canonifyURLs=false
 tag = "tags"
 category = "categories"
 series = "series"
-
 
 [params]
   description = "Un mix de glandouille, informatique, drone et Iles"
