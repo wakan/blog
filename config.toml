@@ -1,33 +1,25 @@
-#baseurl = "https://wakan.github.io/blog/"
-#baseurl = "https://ipfs.io/ipns/Qmaf2Dqi17apQHrCBjFaVCn6qRjG1EN8wdDW12HqQsqLUW/"
-languageCode = "fr-FR"
-title = "WaKaN's blog"
-theme = "hugo_theme_robust"
-copyright = "&copy; 2018 Guillaume Laurent"
-GoogleAnalytics = "UA-104313067-1"
-# Enable comments by entering your Disqus shortname
 DisqusShortname = "wakanpowa"
-
+GoogleAnalytics = "UA-104313067-1"
+copyright = "&copy; 2018 Guillaume Laurent"
+languageCode = "fr-FR"
+theme = "hugo_theme_robust"
+title = "WaKaN's blog"
+[outputs]
+page = ["HTML", "AMP"]
+[params]
+date_format = "Mon 2 Jan 2006"
+dateformat = "Jan 2, 2006"
+description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
+[params.author]
+description = "Microsoft fan. Pour un web meilleur."
+facebook = "//facebook.com/wakan"
+github = "//github.com/wakan"
+name = "WaKaN PoWa"
+thumbnail = "img/wakan.jpg"
+twitter = "//twitter.com/wakanpowa"
 [permalinks]
-  post = "/:title/"
-
+post = "/:title/"
 [taxonomies]
-tag = "tags"
 category = "categories"
 series = "series"
-
-[params]
-  description = "Un mix de glandouille, informatique, drone et Iles"
-  dateformat = "Jan 2, 2006" # Optional
- date_format = "Mon 2 Jan 2006"
-
-[params.author]
-  thumbnail = "img/wakan.jpg"
-  name = "WaKaN PoWa"
-  description = "Microsoft fan. Pour un web meilleur."
-  facebook = "//facebook.com/wakan"
-  twitter = "//twitter.com/wakanpowa"
-  github = "//github.com/wakan"
-
-[outputs]
-page = [ "HTML", "AMP" ] # if you want AMP enable.
+tag = "tags"
