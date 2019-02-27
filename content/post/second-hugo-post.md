@@ -10,3 +10,4 @@ C'est assez déconcertant de facilité.
 
 Test d'intégration d'une vidéo youtube
 {{< youtube miZN_ECkVtk >}}
+Text après youtube sans espace
