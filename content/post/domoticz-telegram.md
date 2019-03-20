@@ -5,6 +5,8 @@ title = "Domoticz et telegram"
 thumbnail = "img/Caïman-noir.jpg"
 categories = [ "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
 +++
+# Notification d'un bot telegram par domoticz
+## Installation
 [Telegram](https://fr.wikipedia.org/wiki/Telegram_(application)) est un logiciel de messagerie instanée à l'instar de What'sApp 
 Installation de telegram le telephone.
 Connection avec son numéro de téléphone.
@@ -27,3 +29,8 @@ Les liens utils :
 
 Dans domoticz vous pouvez aller dans Réglages=>Paramètres=>Notification.
 En bas à droite vous avez 2 champs télégram avec la clé de l'api et le chat id.
+
+## Utilisation
+Frigo ou congélateur trop chaud
+La box ne répond plus au ping
+...
