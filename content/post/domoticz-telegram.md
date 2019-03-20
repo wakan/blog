@@ -8,7 +8,7 @@ categories = [ "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
 ## Installation
 [Telegram](https://fr.wikipedia.org/wiki/Telegram_(application)) est un logiciel de messagerie instanée à l'instar de What'sApp.
 
-Installation de telegram le telephone.
+Installation de telegram sur le telephone.
 
 Connection avec son numéro de téléphone.
 
@@ -31,15 +31,15 @@ Ajouter comme administrateur du canal le nom de notre bot.
 
 "ecrires quelques messages dans le canal"
 
-Aller sur l'url [https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/getUpdates](https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/getUpdates)
+Aller sur l'url [https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates](https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/getUpdates)
 Penser à changer le token avec le votre.
 
-Vous aller retrouver votre Chat ID. Il peut être négatif.
+Vous allez retrouver votre Chat ID. Il peut être négatif.
 
 Tester votre bot avec l'url suivante [https://api.telegram.org](https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/sendMessage?chat_id=1234567&text=Hello)
 
 Les liens utils :
-[doc officiel de domoticz](https://www.domoticz.com/wiki/Telegram_Bot) pas mal mais quelques parties obsolète ou pas claire.
+[doc officiel de domoticz](https://www.domoticz.com/wiki/Telegram_Bot) pas mal mais quelques parties obsolètes ou pas très claires.
 
 Dans domoticz vous pouvez aller dans Réglages=>Paramètres=>Notification.
 
