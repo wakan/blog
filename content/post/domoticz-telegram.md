@@ -2,7 +2,6 @@
 date = "2019-03-20T18:04:04+01:00"
 draft = false
 title = "Domoticz et telegram"
-thumbnail = "img/Caïman-noir.jpg"
 categories = [ "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
 +++
 # Notification d'un bot telegram par domoticz
