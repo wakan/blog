@@ -2,7 +2,7 @@
 date = "2019-03-20T18:04:04+01:00"
 draft = false
 title = "Domoticz et telegram"
-categories = [ "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
+categories = [ "domotique", "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
 +++
 # Notification d'un bot telegram par domoticz
 ## Installation
