@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    
+    <script>
+      dataLayer = [];
+    </script>
+    <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-MP7KPFB');</script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+    <title>Edenred</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="5EKSfDPwI814rTqa9UvT0JvGzKr5iuCXoqSqGp7V42k" />
+    <link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png?v=2">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png?v=2">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest?v=2">
+    <link rel="mask-icon" href="/assets/favicon/safari-pinned-tab.svg?v=2" color="#ff220f">
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico?v=2">
+    <script crossorigin="anonymous" src="https://polyfill.io/v3/polyfill.min.js?features=IntersectionObserver%2CIntersectionObserverEntry%2CPromise"></script>
+    <script>
+      __Zone_enable_cross_context_check = true; // enables cross context
+      (function() {
+            if (typeof NodeList.prototype.forEach === "function")
+                return false;
+            else
+                NodeList.prototype.forEach = Array.prototype.forEach; // allows forEach on IE11
+        })();
+    </script>
+    <script src="https://cdn.cookielaw.org/langswitch/5e9f5df3-f5c2-4cce-9566-f42cbb1681ea.js"></script>
+    <script>
+      function OptanonWrapper() {}
+    </script>
+  <link rel="stylesheet" href="styles.3c35c9f4d8b87be2109f.css"></head>
+  <body>
+    
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MP7KPFB"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <ed-root></ed-root>
+  <script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="polyfills.ea63b5b36ba5a82d8d8a.js"></script><script type="text/javascript" src="scripts.5a5dd706cbd791f4d8d8.js"></script><script type="text/javascript" src="main.618b6d9bab92c6424858.js"></script></body>
+</html>
