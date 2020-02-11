@@ -36,6 +36,7 @@ Il faudra avoir accès au compte de contact pour valider la demande (souvent l'a
 - Fruits et légumes
 - Thon
 - Saucisse
+- Lardon 
 
 ## Ce qui n'est pas remboursé
 - Pâtes
