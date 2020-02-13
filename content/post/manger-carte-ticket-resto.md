@@ -37,6 +37,10 @@ Il faudra avoir accès au compte de contact pour valider la demande (souvent l'a
 - Thon
 - Saucisse
 - Lardon 
+- Fromage
+- Coeur de palmier
+- petit poids carotte
+- Mais
 
 ## Ce qui n'est pas remboursé
 - Pâtes
@@ -44,3 +48,7 @@ Il faudra avoir accès au compte de contact pour valider la demande (souvent l'a
 - Œuf
 - Beurre
 - Olives apéritifs
+- Cornichon
+- Saucisson
+- Farine
+- Tapioca
