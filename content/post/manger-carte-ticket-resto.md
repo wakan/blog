@@ -41,6 +41,7 @@ Il faudra avoir accès au compte de contact pour valider la demande (souvent l'a
 - Coeur de palmier
 - petit poids carotte
 - Mais
+- Pot de menthe
 
 ## Ce qui n'est pas remboursé
 - Pâtes
