@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hearthstone on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/hearthstone/</link>
+    <description>Recent content in Hearthstone on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Thu, 06 Oct 2016 10:48:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/hearthstone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hearthstone, bras fer echecs pour la semaine 201640</title>
+      <link>https://wakan.github.io/blog/hearthstone-bras-fer-echecs-pour-la-semaine-201640/</link>
+      <pubDate>Thu, 06 Oct 2016 10:48:31 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/hearthstone-bras-fer-echecs-pour-la-semaine-201640/</guid>
+      <description>Si vous êtes en galère pour le bras de fer de la semaine 201640, il y a quatre règles à garder en tête :
+  Lors du mulligan, garder que des pions et pas les autres pièces. Cela permet d&#39;avoir 1 ou 2 pions au tour 1 en fonction de la pièce et entre 2 au tour 2
+  A la fin du tour avoir toujours +- 1 carte par rapport à l&#39;adversaire.</description>
+    </item>
+    
+  </channel>
+</rss>

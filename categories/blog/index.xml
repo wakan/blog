@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/blog/</link>
+    <description>Recent content in Blog on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Mon, 10 Oct 2016 07:42:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remarque sur l&#39;éditeur de markdown de dillinger</title>
+      <link>https://wakan.github.io/blog/remarque-sur-l%C3%A9diteur-de-markdown-de-dillinger/</link>
+      <pubDate>Mon, 10 Oct 2016 07:42:21 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/remarque-sur-l%C3%A9diteur-de-markdown-de-dillinger/</guid>
+      <description>Dillinger est un éditeur de markdown avec une interface assez responsive. Il a une prévisualisation instantanée du markdown avec un export pdf pour le donner à relire à quelq&#39;un.
+Il est lié directement avec un compte github ce qui pourrait permettre de créer des articles sur Hugo directement avec un outil convivial.
+La limite que je vois actuellement, c&#39;est qu&#39;il faut d&#39;abord créer le document sur github pour après l&#39;importer dans dillinger pour qu&#39;il se sauvegarde automatiquement sur github.</description>
+    </item>
+    
+    <item>
+      <title>second hugo post</title>
+      <link>https://wakan.github.io/blog/second-hugo-post/</link>
+      <pubDate>Wed, 05 Oct 2016 11:25:04 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/second-hugo-post/</guid>
+      <description>Après m&#39;être un peu familiarisé avec hugo, j&#39;ai bien un blog disponible sur github. C&#39;est assez déconcertant de facilité.
+Test d&#39;intégration d&#39;une vidéo youtube   Text après youtube sans espace</description>
+    </item>
+    
+    <item>
+      <title>Remarques sur le générateur de site hugo</title>
+      <link>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</link>
+      <pubDate>Wed, 05 Oct 2016 10:26:13 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</guid>
+      <description>Pour le moment hugo à l&#39;air pas mal et bien intégré avec github je vais donc continuer à regarder un peu. Il peut être pratique pour les associations. Il faut leur configurer au début, faire un peu de formation au début. Une fois l&#39;après midi passé, ils sont autonomes pour gérer eux-mêmes leurs articles. Un bon point.</description>
+    </item>
+    
+  </channel>
+</rss>

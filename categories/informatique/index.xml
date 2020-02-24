@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Informatique on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/informatique/</link>
+    <description>Recent content in Informatique on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Mon, 24 Oct 2016 19:42:21 +0200</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/informatique/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Attaque ddos</title>
+      <link>https://wakan.github.io/blog/attaque-ddos/</link>
+      <pubDate>Mon, 24 Oct 2016 19:42:21 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/attaque-ddos/</guid>
+      <description>Dyn : attaque DDoS Les attaques ddos sont de plus en plus répendues. On peut voir dans l&#39;actualité en ce moment News attaque ddos. Il serait temps, à notre époque, avec les moyens actuels, de trouver des solutions pour pouvoir les éradiquer.
+Vecteur de réflextion 1 : Sécurisation des pc zombies Mettre en place des contrôles au niveau du système d&#39;exploitation. Afin d&#39;éviter ce genre d&#39;attaque. Je ne suis pas fan de cette technique, car j&#39;aime avoir la maîtrise complète de mon matériel.</description>
+    </item>
+    
+  </channel>
+</rss>

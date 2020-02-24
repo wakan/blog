@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sortie on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/sortie/</link>
+    <description>Recent content in Sortie on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Wed, 25 Jan 2017 12:19:04 -0300</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/sortie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Visite du zoo de Guyane</title>
+      <link>https://wakan.github.io/blog/visite-du-zoo-de-guyane/</link>
+      <pubDate>Wed, 25 Jan 2017 12:19:04 -0300</pubDate>
+      
+      <guid>https://wakan.github.io/blog/visite-du-zoo-de-guyane/</guid>
+      <description>La première visite que j&#39;ai faite en Guyane, c&#39;est son zoo. En effet, je voulais voir les animaux en cage avant de les voir dans la vrai vie. Je n&#39;ai vraiment pas été déçus du voyage. Pour comparer avec un des seuls zoo que j&#39;ai fait récement, la barben les animaux, en Guyane, sont vraiment très proche, les vitres pour regarder sont bien entretenues. Il y a un passage en hauteur un peu acrobatique pour admirer la flore de haut.</description>
+    </item>
+    
+  </channel>
+</rss>

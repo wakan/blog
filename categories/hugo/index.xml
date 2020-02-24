@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/hugo/</link>
+    <description>Recent content in Hugo on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Wed, 05 Oct 2016 11:25:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>second hugo post</title>
+      <link>https://wakan.github.io/blog/second-hugo-post/</link>
+      <pubDate>Wed, 05 Oct 2016 11:25:04 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/second-hugo-post/</guid>
+      <description>Après m&#39;être un peu familiarisé avec hugo, j&#39;ai bien un blog disponible sur github. C&#39;est assez déconcertant de facilité.
+Test d&#39;intégration d&#39;une vidéo youtube   Text après youtube sans espace</description>
+    </item>
+    
+    <item>
+      <title>Remarques sur le générateur de site hugo</title>
+      <link>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</link>
+      <pubDate>Wed, 05 Oct 2016 10:26:13 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</guid>
+      <description>Pour le moment hugo à l&#39;air pas mal et bien intégré avec github je vais donc continuer à regarder un peu. Il peut être pratique pour les associations. Il faut leur configurer au début, faire un peu de formation au début. Une fois l&#39;après midi passé, ils sont autonomes pour gérer eux-mêmes leurs articles. Un bon point.</description>
+    </item>
+    
+  </channel>
+</rss>

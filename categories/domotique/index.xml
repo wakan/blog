@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>domotique on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/categories/domotique/</link>
+    <description>Recent content in domotique on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Wed, 20 Mar 2019 18:04:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/categories/domotique/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Domoticz et telegram</title>
+      <link>https://wakan.github.io/blog/domoticz-et-telegram/</link>
+      <pubDate>Wed, 20 Mar 2019 18:04:04 +0100</pubDate>
+      
+      <guid>https://wakan.github.io/blog/domoticz-et-telegram/</guid>
+      <description>Notification d&#39;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&#39;instar de What&#39;sApp.
+Installation de telegram sur le telephone.
+Connection avec son numéro de téléphone.
+Discussion avec BotFather.
+&amp;ldquo;/start&amp;rdquo;
+&amp;ldquo;/newbot&amp;rdquo;
+&amp;ldquo;botname&amp;rdquo; like Pidomotticz
+&amp;ldquo;username&amp;rdquo; like DomPiBot
+Réponse du bot avec un token. Pour le copier coller plus facilement il existe une App télégram web https://web.telegram.org
+Créé dans l&#39;application telegram un nouveau canal.
+Ajouter comme administrateur du canal le nom de notre bot.</description>
+    </item>
+    
+  </channel>
+</rss>

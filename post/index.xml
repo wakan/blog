@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on WaKaN&#39;s blog</title>
+    <link>https://wakan.github.io/blog/post/</link>
+    <description>Recent content in Posts on WaKaN&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>&amp;copy; 2020 Guillaume Laurent</copyright>
+    <lastBuildDate>Sat, 01 Feb 2020 11:04:04 +0100</lastBuildDate>
+    
+	<atom:link href="https://wakan.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Se nourrir avec la carte ticket resto</title>
+      <link>https://wakan.github.io/blog/se-nourrir-avec-la-carte-ticket-resto/</link>
+      <pubDate>Sat, 01 Feb 2020 11:04:04 +0100</pubDate>
+      
+      <guid>https://wakan.github.io/blog/se-nourrir-avec-la-carte-ticket-resto/</guid>
+      <description>Se nourrir avec la carte ticket resto Présentation Certaines entreprises donnent comme avantage une carte ticket restaurant à utiliser pour manger le midi. Seulement, pour les personnes qui préfèrent se faire à manger, cet avantage est perdu. Pire encore, cela nous a coûté de l&#39;argent, car sur cette carte, la moitié de l&#39;argent est donnée par l&#39;employeur mais l&#39;autre partie est retenu sur votre salaire. Constat, on arrive en fin d&#39;année.</description>
+    </item>
+    
+    <item>
+      <title>Domoticz et telegram</title>
+      <link>https://wakan.github.io/blog/domoticz-et-telegram/</link>
+      <pubDate>Wed, 20 Mar 2019 18:04:04 +0100</pubDate>
+      
+      <guid>https://wakan.github.io/blog/domoticz-et-telegram/</guid>
+      <description>Notification d&#39;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&#39;instar de What&#39;sApp.
+Installation de telegram sur le telephone.
+Connection avec son numéro de téléphone.
+Discussion avec BotFather.
+&amp;ldquo;/start&amp;rdquo;
+&amp;ldquo;/newbot&amp;rdquo;
+&amp;ldquo;botname&amp;rdquo; like Pidomotticz
+&amp;ldquo;username&amp;rdquo; like DomPiBot
+Réponse du bot avec un token. Pour le copier coller plus facilement il existe une App télégram web https://web.telegram.org
+Créé dans l&#39;application telegram un nouveau canal.
+Ajouter comme administrateur du canal le nom de notre bot.</description>
+    </item>
+    
+    <item>
+      <title>Visite du zoo de Guyane</title>
+      <link>https://wakan.github.io/blog/visite-du-zoo-de-guyane/</link>
+      <pubDate>Wed, 25 Jan 2017 12:19:04 -0300</pubDate>
+      
+      <guid>https://wakan.github.io/blog/visite-du-zoo-de-guyane/</guid>
+      <description>La première visite que j&#39;ai faite en Guyane, c&#39;est son zoo. En effet, je voulais voir les animaux en cage avant de les voir dans la vrai vie. Je n&#39;ai vraiment pas été déçus du voyage. Pour comparer avec un des seuls zoo que j&#39;ai fait récement, la barben les animaux, en Guyane, sont vraiment très proche, les vitres pour regarder sont bien entretenues. Il y a un passage en hauteur un peu acrobatique pour admirer la flore de haut.</description>
+    </item>
+    
+    <item>
+      <title>Départ vacance pour la Guyane</title>
+      <link>https://wakan.github.io/blog/d%C3%A9part-vacance-pour-la-guyane/</link>
+      <pubDate>Sun, 22 Jan 2017 14:35:04 -0900</pubDate>
+      
+      <guid>https://wakan.github.io/blog/d%C3%A9part-vacance-pour-la-guyane/</guid>
+      <description>On attendait à l&#39;aéroport Marseille Provence notre avion trépignant d&#39;impatience. Comme nous avions des tickets classes, nous étions devant la porte 42.
+Pour le voyage jusqu&#39;à Paris, j&#39;ai écouté un peu de stupeflip sur deezer (merci pour la promotion des 3 mois pour 0,99e).
+Petit déjeuner d&#39;air France, une madeleine et un chocolat chaud.
+Arrivé à Orly, c&#39;était un peu la course. En effet, les portiques biométriques ne fonctionnants pas, il y avait une queue de plus de 10 minutes pour la vérification des passeports.</description>
+    </item>
+    
+    <item>
+      <title>Attaque ddos</title>
+      <link>https://wakan.github.io/blog/attaque-ddos/</link>
+      <pubDate>Mon, 24 Oct 2016 19:42:21 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/attaque-ddos/</guid>
+      <description>Dyn : attaque DDoS Les attaques ddos sont de plus en plus répendues. On peut voir dans l&#39;actualité en ce moment News attaque ddos. Il serait temps, à notre époque, avec les moyens actuels, de trouver des solutions pour pouvoir les éradiquer.
+Vecteur de réflextion 1 : Sécurisation des pc zombies Mettre en place des contrôles au niveau du système d&#39;exploitation. Afin d&#39;éviter ce genre d&#39;attaque. Je ne suis pas fan de cette technique, car j&#39;aime avoir la maîtrise complète de mon matériel.</description>
+    </item>
+    
+    <item>
+      <title>Remarque sur l&#39;éditeur de markdown de dillinger</title>
+      <link>https://wakan.github.io/blog/remarque-sur-l%C3%A9diteur-de-markdown-de-dillinger/</link>
+      <pubDate>Mon, 10 Oct 2016 07:42:21 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/remarque-sur-l%C3%A9diteur-de-markdown-de-dillinger/</guid>
+      <description>Dillinger est un éditeur de markdown avec une interface assez responsive. Il a une prévisualisation instantanée du markdown avec un export pdf pour le donner à relire à quelq&#39;un.
+Il est lié directement avec un compte github ce qui pourrait permettre de créer des articles sur Hugo directement avec un outil convivial.
+La limite que je vois actuellement, c&#39;est qu&#39;il faut d&#39;abord créer le document sur github pour après l&#39;importer dans dillinger pour qu&#39;il se sauvegarde automatiquement sur github.</description>
+    </item>
+    
+    <item>
+      <title>Hearthstone, bras fer echecs pour la semaine 201640</title>
+      <link>https://wakan.github.io/blog/hearthstone-bras-fer-echecs-pour-la-semaine-201640/</link>
+      <pubDate>Thu, 06 Oct 2016 10:48:31 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/hearthstone-bras-fer-echecs-pour-la-semaine-201640/</guid>
+      <description>Si vous êtes en galère pour le bras de fer de la semaine 201640, il y a quatre règles à garder en tête :
+  Lors du mulligan, garder que des pions et pas les autres pièces. Cela permet d&#39;avoir 1 ou 2 pions au tour 1 en fonction de la pièce et entre 2 au tour 2
+  A la fin du tour avoir toujours +- 1 carte par rapport à l&#39;adversaire.</description>
+    </item>
+    
+    <item>
+      <title>second hugo post</title>
+      <link>https://wakan.github.io/blog/second-hugo-post/</link>
+      <pubDate>Wed, 05 Oct 2016 11:25:04 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/second-hugo-post/</guid>
+      <description>Après m&#39;être un peu familiarisé avec hugo, j&#39;ai bien un blog disponible sur github. C&#39;est assez déconcertant de facilité.
+Test d&#39;intégration d&#39;une vidéo youtube   Text après youtube sans espace</description>
+    </item>
+    
+    <item>
+      <title>Remarques sur le générateur de site hugo</title>
+      <link>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</link>
+      <pubDate>Wed, 05 Oct 2016 10:26:13 +0200</pubDate>
+      
+      <guid>https://wakan.github.io/blog/remarques-sur-le-g%C3%A9n%C3%A9rateur-de-site-hugo/</guid>
+      <description>Pour le moment hugo à l&#39;air pas mal et bien intégré avec github je vais donc continuer à regarder un peu. Il peut être pratique pour les associations. Il faut leur configurer au début, faire un peu de formation au début. Une fois l&#39;après midi passé, ils sont autonomes pour gérer eux-mêmes leurs articles. Un bon point.</description>
+    </item>
+    
+  </channel>
+</rss>
