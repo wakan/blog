@@ -42,6 +42,7 @@ Il faudra avoir accès au compte de contact pour valider la demande (souvent l'a
 - petit poids carotte
 - Mais
 - Pot de menthe
+- pain 
 
 ## Ce qui n'est pas remboursé
 - Pâtes
