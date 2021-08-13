@@ -2,7 +2,7 @@ DisqusShortname = "wakanpowa"
 GoogleAnalytics = "UA-104313067-1"
 copyright = "&copy; 2021 Guillaume Laurent"
 languageCode = "fr-FR"
-theme = "hugo_theme_robust"
+theme = "ananke"
 title = "WaKaN's blog"
 [outputs]
 page = ["HTML", "AMP"]

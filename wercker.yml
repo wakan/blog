@@ -2,7 +2,6 @@ box: debian
 build:
   steps:
     - arjen/hugo-build: 
-        theme: rsimple 
         flags: --buildDrafts=false
 deploy:
   steps:
