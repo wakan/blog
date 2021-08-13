@@ -7,5 +7,5 @@ deploy:
   steps:
     - uetchy/gh-pages: 
       token: $GIT_TOKEN 
-      repo: wakan/wakan.github.io
+      repo: blog
       path: public
