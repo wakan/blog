@@ -10,6 +10,8 @@ deploy:
     - script:
         name: push to gh-pages
         code: |
+          git config --global user.email "wercker@yopmail.com"
+          git config --global user.name "wercker"
           git init
           git add .
           git commit -m "deploy from wercker"
