@@ -7,10 +7,6 @@ deploy:
   steps:
     - install-packages:
         packages: git
-    - add-to-known_hosts:
-        hostname: github.com
-        fingerprint: nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
-        type: rsa
     - add-ssh-key:
         keyname: WERCKER-BLOG
     - script:
