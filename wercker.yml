@@ -5,7 +5,7 @@ build:
         flags: --buildDrafts=false
 deploy:
   steps:
-    - lukevivier/gh-pages:
-        token: $GIT_TOKEN
-        repo: wakan/blog
-        basedir: public
+    - uetchy/gh-pages: 
+      token: $GIT_TOKEN 
+      repo: wakan/wakan.github.io
+      path: public
