@@ -5,7 +5,10 @@ build:
         flags: --buildDrafts=false
 deploy:
   steps:
-    - uetchy/gh-pages: 
-      token: $GIT_TOKEN 
-      repo: blog
-      path: public
+    - script:
+        name: push to gh-pages
+        code: |
+          git init
+          git add .
+          git commit -m "deploy from wercker"
+          git push -f git@github.com:wakan/blog.git master:gh-pages
