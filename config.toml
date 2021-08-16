@@ -1,58 +1,147 @@
 baseurl = "https://wakan.github.io/blog"
+baseURL = "https://wakan.github.io/blog"
 title = "WaKaN's blog"
-theme = "rsimple"
-pygmentsCodeFences = true
-pygmentsUseClasses = true
 
+theme = "fuji"
+hasCJKLanguage = true
+enableEmoji = true
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+## Change this two to switch between different language
+languageCode = "fr"  # For RSS, view https://www.rssboard.org/rss-language-codes
+defaultContentLanguage = "fr"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
+
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 10
+
+# googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
+
+[outputFormats]
+  [outputFormats.SearchIndex]
+    isPlainText = true
+    notAlternative = true
+    mediaType = "application/json"
+    path = "/search/"
+
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex", "AMP"]
+
+[permalinks]
+  post = "/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
+
+[params]
+  author = "wakan" # You can also set author in post front matter individually
+  subTitle = "A minimal Hugo theme."
+  defaultTheme = "auto" # default theme when first visit (auto|dark|light)
+
+  # Source URL of the website, will appear in the footer
+  sourceURL = "https://github.com/wakan/blog"
+
+  # Use CloudFlare Workers to accelerate the Google Analytics
+  # If you are using this please comment the googleAnalytics above
+  # Check https://github.com/SukkaW/cloudflare-workers-async-google-analytics for more details
+  # googleAnalyticsTid = "UA-000000000-0"
+  # googleAnalyticsRoute = "https://*.*.workers.dev/"
+
+  # Google AdSense
+  # The AdSense code will be inserted between the head tags of your site.
+  # googleAdsense = "0000000000000000"
+
+  # Word counter and read time indicator in post metadata
+  showWordCounter = true
+  showReadTime = true
+
+  # License in the footer
+  showLicenseInFooter = false
+
+  # License at the end of each post
+  showLicense = true
+  showToc = true
+
+  # Copyright
+  copyrightStartYear = "2021"
+
+  # Open Graph & Twitter Card variables
+  # You can also set description and images in post front matter individually
+  description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
+  og = "/img/og.png" # This will use the image called og.png in static/img folder
+
+  # Posts shown in homepage
+  mainSections = ["post"]
+
+  # Bangumi image chart id
+  # bgmImageChart = "000000"
+
+  # License
+  license = "CC BY-NC-SA 4.0"
+  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  # Comments
+  # utterances, see: https://utteranc.es/
+  # utterancesRepo = "*/*"
+  # utterancesIssueTerm = "pathname"
+
+  # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
+  disqusShortname = "wakanpowa"
+  # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
+  # If you want to set multiple api key, see theme's README for more details
+  # disqusJSApi = "https://*********/"
+  # disqusJSApikey = "**********"
+
+  # custom lazyload placeholder
+  # 16:9
+  lazyPlaceholder = "/assets/lazyload/dsrca_loading_480x270.svg"
+  # 32:9
+  lazyPlaceholderRow = "/assets/lazyload/dsrca_loading_960x270.svg"
+  # 8:9
+  lazyPlaceholderCol = "/assets/lazyload/dsrca_loading_480x540.svg"
+
+  # Let images display in full brightness under dark mode
+  # disableDarkImage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  series = "series"
-
-
-[Params]
-    mainSections = ["post"]
-    intro = true
-    headline = "Microsoft fan. Pour un web meilleur."
-    description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
-    github = "//github.com/wakan"
-    twitter = "//twitter.com/wakanpowa"
-    email = "wakan_powa_s01@hotmail.fr"
-    opengraph = true
-    dateFormat = "Jan 2, 2006"
-
-[Permalinks]
-    post = "/:filename/"
 
 [menu]
-
-  [[menu.main]]
+  [[menu.nav]]
     name = "Home"
-    pre = "<i class='fas fa-home'></i>"
     url = "/"
     weight = 1
-
-  [[menu.main]]
-    name = "Posts"
-    pre = "<i class='fas fa-pen-square'></i>"
-    url = "/post/"
+  [[menu.nav]]
+    name = "Archives"
+    url = "/archives/"
     weight = 2
-
-  [[menu.main]]
+  [[menu.nav]]
     name = "About"
-    pre = "<i class='fas fa-info'></i>"
-    url = "/page/about/"
+    url = "/about/"
     weight = 3
-
-  [[menu.main]]
-    name = "Project"
-    pre = "<i class='fas fa-tasks'></i>"
-    url = "/project/"
+  [[menu.nav]]
+    name = "Search"
+    url = "/search/"
     weight = 4
-    
-  [[menu.main]]
-    name = "Tags"
-    pre = "<i class='fas fa-tags'></i>"
-    url = "/tags/"
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
     weight = 5
+
+  [[menu.link]]
+    name = "GitHub"
+    url = "https://github.com/wakan"
+    weight = 1
+  [[menu.link]]
+    name = "Twitter"
+    url = "https://twitter.com/wakanpowa"
+    weight = 2
