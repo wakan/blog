@@ -18,7 +18,7 @@ name = "WaKaN PoWa"
 thumbnail = "img/wakan.jpg"
 twitter = "//twitter.com/wakanpowa"
 [Permalinks]
-    post = "/:filename/"
+    post = "blog/:filename/"
 [taxonomies]
 category = "categories"
 series = "series"
