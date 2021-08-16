@@ -17,8 +17,8 @@ github = "//github.com/wakan"
 name = "WaKaN PoWa"
 thumbnail = "img/wakan.jpg"
 twitter = "//twitter.com/wakanpowa"
-[permalinks]
-post = "/:title/"
+[Permalinks]
+    post = "/:filename/"
 [taxonomies]
 category = "categories"
 series = "series"
