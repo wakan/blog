@@ -1,4 +1,22 @@
 box: debian
+
+getcode:
+  steps:
+    - script:
+        name: install git
+        code: |
+            apt-get update
+            apt-get install git -y
+    - add-to-known_hosts:
+        hostname: github.com
+        fingerprint: nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+        type: rsa
+    - add-ssh-key:
+        keyname: WERCKER_BLOG
+    - script:
+        name: initialize git submodules
+        code: |
+            git submodule update --init --recursive
 build:
   steps:
     - arjen/hugo-build: 
