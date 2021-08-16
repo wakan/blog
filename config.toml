@@ -1,4 +1,4 @@
-baseurl = "blog"
+baseurl = "https://wakan.github.io/blog"
 title = "WaKaN's blog"
 theme = "rsimple"
 pygmentsCodeFences = true
