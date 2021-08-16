@@ -1,25 +1,58 @@
-DisqusShortname = "wakanpowa"
-GoogleAnalytics = "UA-104313067-1"
-copyright = "&copy; 2021 Guillaume Laurent"
-languageCode = "fr-FR"
-theme = "rsimple"
+baseurl = "blog"
 title = "WaKaN's blog"
-[outputs]
-page = ["HTML", "AMP"]
-[params]
-date_format = "Mon 2 Jan 2006"
-dateformat = "Jan 2, 2006"
-description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
-[params.author]
-description = "Microsoft fan. Pour un web meilleur."
-facebook = "//facebook.com/wakan"
-github = "//github.com/wakan"
-name = "WaKaN PoWa"
-thumbnail = "img/wakan.jpg"
-twitter = "//twitter.com/wakanpowa"
-[Permalinks]
-    post = "blog/:filename/"
+theme = "rsimple"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+
 [taxonomies]
-category = "categories"
-series = "series"
-tag = "tags"
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Microsoft fan. Pour un web meilleur."
+    description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
+    github = "//github.com/wakan"
+    twitter = "//twitter.com/wakanpowa"
+    email = "wakan_powa_s01@hotmail.fr"
+    opengraph = true
+    dateFormat = "Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fas fa-home'></i>"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fas fa-pen-square'></i>"
+    url = "/post/"
+    weight = 2
+
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fas fa-info'></i>"
+    url = "/page/about/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Project"
+    pre = "<i class='fas fa-tasks'></i>"
+    url = "/project/"
+    weight = 4
+    
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fas fa-tags'></i>"
+    url = "/tags/"
+    weight = 5
