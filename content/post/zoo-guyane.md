@@ -9,7 +9,7 @@ La première visite que j'ai faite en Guyane, c'est son [zoo](http://www.zoodegu
 je voulais voir les animaux en cage avant de les voir dans la vrai vie.
 Je n'ai vraiment pas été déçus du voyage.
 Pour comparer avec un des seuls zoo que j'ai fait récement, 
-[la barben](http://www.zoolabarben.com/) les animaux, en Guyane, sont vraiment très proche, 
+[la barben](https://www.parcanimalierlabarben.com/) les animaux, en Guyane, sont vraiment très proche, 
 les vitres pour regarder sont bien entretenues.
 Il y a un passage en hauteur un peu acrobatique pour admirer la flore de haut.
 Je vous laisse en compagnie de quelques animaux photogeniques, à bientôt pour voir dans un prochain article,
