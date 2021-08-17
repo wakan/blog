@@ -22,7 +22,7 @@ L'arrivée en avion au dessus de la Guyane est assez dépaysante on a l'impressi
 
 Le climat est un climat tropical assez chaud et humide. Ps : ne pas sortir de l'avion avec un pull. 
 
-Direction [remire montjoly](http://remire-montjoly.mairies-guyane.org/), petit tour d'une ville avant au premier abord beaucoup de chinois, beaucoup d'école, la plage sur laquelle pondent les [tortues luth](https://fr.wikipedia.org/wiki/Tortue_luth).
+Direction [remire montjoly](http://www.remire-montjoly.fr/), petit tour d'une ville avant au premier abord beaucoup de chinois, beaucoup d'école, la plage sur laquelle pondent les [tortues luth](https://fr.wikipedia.org/wiki/Tortue_luth).
 
 Un apéritif de bienvenue gargantuesque rhum, champagne,  foie gras, ... 
 
