@@ -25,7 +25,7 @@ paginate = 10
     path = "/search/"
 
 [outputs]
-  home = ["HTML", "RSS", "SearchIndex", "AMP"]
+  home = ["HTML", "RSS", "AMP"]
 
 [permalinks]
   post = "/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
