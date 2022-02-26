@@ -1,41 +1,26 @@
-<!DOCTYPE html>
-<html lang="fr">
-
+<!doctype html><html lang=fr>
 <head>
-    
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta name="HandheldFriendly" content="True" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<meta http-equiv="Cache-Control" content="no-transform" />
-<meta http-equiv="Cache-Control" content="no-siteapp" />
-<meta name="generator" content="Hugo 0.85.0" />
-
-
-<link rel="apple-touch-icon" sizes="180x180" href="/blog/favicon/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/blog/favicon/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/blog/favicon/favicon-16x16.png">
-<link rel="manifest" href="/blog/favicon/site.webmanifest">
-<link rel="mask-icon" href="/blog/favicon/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-
-
-
-<title>Domoticz et telegram - WaKaN&#39;s blog</title>
-
-
-<meta name="author" content="wakan" />
-
-
-<meta name="description" content="Un mix de glandouille, informatique, drone, iles et sutour des tests divers" />
-
-
-
-<meta property="og:title" content="Domoticz et telegram" />
-<meta name="twitter:title" content="Domoticz et telegram" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://wakan.github.io/blog/domoticz-telegram/" /><meta property="og:description" content="Notification d&rsquo;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
+<meta name=HandheldFriendly content="True">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta http-equiv=cache-control content="no-transform">
+<meta http-equiv=cache-control content="no-siteapp">
+<meta name=generator content="Hugo 0.91.2">
+<link rel=apple-touch-icon sizes=180x180 href=/blog/favicon/apple-touch-icon.png>
+<link rel=icon type=image/png sizes=32x32 href=/blog/favicon/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/blog/favicon/favicon-16x16.png>
+<link rel=manifest href=/blog/favicon/site.webmanifest>
+<link rel=mask-icon href=/blog/favicon/safari-pinned-tab.svg color=#5bbad5>
+<meta name=msapplication-TileColor content="#da532c">
+<meta name=theme-color content="#ffffff">
+<title>Domoticz et telegram - WaKaN's blog</title>
+<meta name=author content="wakan">
+<meta name=description content="Un mix de glandouille, informatique, drone, iles et sutour des tests divers">
+<meta property="og:title" content="Domoticz et telegram">
+<meta name=twitter:title content="Domoticz et telegram">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://wakan.github.io/blog/domoticz-telegram/"><meta property="og:description" content="Notification d&rsquo;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.
 Installation de telegram sur le telephone.
 Connection avec son numéro de téléphone.
 Discussion avec BotFather.
@@ -48,8 +33,8 @@ Créé dans l&rsquo;application telegram un nouveau canal.
 Ajouter comme administrateur du canal le nom de notre bot.
 &ldquo;ecrires quelques messages dans le canal&rdquo;
 Aller sur l&rsquo;url https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates Penser à changer le token avec le votre.
-Vous allez retrouver votre Chat ID." />
-<meta name="twitter:description" content="Notification d&rsquo;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.
+Vous allez retrouver votre Chat ID.">
+<meta name=twitter:description content="Notification d&rsquo;un bot telegram par domoticz Installation Telegram est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.
 Installation de telegram sur le telephone.
 Connection avec son numéro de téléphone.
 Discussion avec BotFather.
@@ -62,89 +47,39 @@ Créé dans l&rsquo;application telegram un nouveau canal.
 Ajouter comme administrateur du canal le nom de notre bot.
 &ldquo;ecrires quelques messages dans le canal&rdquo;
 Aller sur l&rsquo;url https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates Penser à changer le token avec le votre.
-Vous allez retrouver votre Chat ID." /><meta property="og:image" content="https://wakan.github.io/img/wakan.jpg" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="https://wakan.github.io/img/wakan.jpg" /><meta property="article:published_time" content="2019-03-20T18:04:04+01:00" /><meta property="article:modified_time" content="2019-03-20T18:04:04+01:00" />
-
-
-<style>
-    @media (prefers-color-scheme: dark) {
-        body[data-theme='auto'] img {
-            filter: brightness(60%);
-        }
-    }
-
-    body[data-theme='dark'] img {
-        filter: brightness(60%);
-    }
-</style>
-
-
-
-
-<link rel="stylesheet" href="https://wakan.github.io/blog/assets/css/fuji.min.css" />
-
-
-
-
-
-
-
-
+Vous allez retrouver votre Chat ID."><meta property="og:image" content="https://wakan.github.io/img/wakan.jpg">
+<meta name=twitter:card content="summary_large_image">
+<meta name=twitter:image content="https://wakan.github.io/img/wakan.jpg"><meta property="article:published_time" content="2019-03-20T18:04:04+01:00"><meta property="article:modified_time" content="2019-03-20T18:04:04+01:00">
+<style>@media(prefers-color-scheme:dark){body[data-theme=auto] img{filter:brightness(60%)}}body[data-theme=dark] img{filter:brightness(60%)}</style>
+<link rel=stylesheet href=https://wakan.github.io/blog/assets/css/fuji.min.css>
 </head>
-
-<body
-  data-theme="auto"
-  data-theme-auto='true'
-  >
-    <script data-cfasync="false">
-  
-  var fujiThemeData = localStorage.getItem('fuji_data-theme');
-  
-  if (!fujiThemeData) {
-    localStorage.setItem('fuji_data-theme', 'auto');
-  } else {
-    
-    if (fujiThemeData !== 'auto') {
-      document.body.setAttribute('data-theme', fujiThemeData === 'dark' ? 'dark' : 'light');
-    }
-  }
-</script>
-
-    <header>
-    <div class="container-lg clearfix">
-        <div class="col-12 header">
-            <a class="title-main" href="https://wakan.github.io/blog">WaKaN&#39;s blog</a>
-            
-            <span class="title-sub">Microsoft fan blog&#39;s.</span>
-            
-        </div>
-    </div>
+<body data-theme=auto data-theme-auto=true>
+<script data-cfasync=false>var fujiThemeData=localStorage.getItem('fuji_data-theme');fujiThemeData?fujiThemeData!=='auto'&&document.body.setAttribute('data-theme',fujiThemeData==='dark'?'dark':'light'):localStorage.setItem('fuji_data-theme','auto')</script>
+<header>
+<div class="container-lg clearfix">
+<div class="col-12 header">
+<a class=title-main href=https://wakan.github.io/blog>WaKaN's blog</a>
+<span class=title-sub>Microsoft fan blog's.</span>
+</div>
+</div>
 </header>
-
-    <main>
-        <div class="container-lg clearfix">
-            
-            <div class="col-12 col-md-9 float-left content">
-                
+<main>
+<div class="container-lg clearfix">
+<div class="col-12 col-md-9 float-left content">
 <article>
-    
-    <h2 class="post-item post-title">
-        <a href="https://wakan.github.io/blog/domoticz-telegram/">Domoticz et telegram</a>
-    </h2>
-    <div class="post-item post-meta">
-        <span><i class="iconfont icon-today-sharp"></i>&nbsp;2019-03-20</span>
-
+<h2 class="post-item post-title">
+<a href=https://wakan.github.io/blog/domoticz-telegram/>Domoticz et telegram</a>
+</h2>
+<div class="post-item post-meta">
+<span><i class="iconfont icon-today-sharp"></i>&nbsp;2019-03-20</span>
 <span><i class="iconfont icon-file-tray-sharp"></i>&nbsp;169 mots</span>
 <span><i class="iconfont icon-time-sharp"></i>&nbsp;1 minute</span>
 <span><i class="iconfont icon-pricetags-sharp"></i>&nbsp;Aucune étiquette</span>
-
-    </div>
-    
-    <div class="post-content markdown-body">
-        <h1 id="notification-dun-bot-telegram-par-domoticz">Notification d&rsquo;un bot telegram par domoticz</h1>
-<h2 id="installation">Installation</h2>
-<p><a href="https://fr.wikipedia.org/wiki/Telegram_%28application%29" target="_blank">Telegram</a> est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.</p>
+</div>
+<div class="post-content markdown-body">
+<h1 id=notification-dun-bot-telegram-par-domoticz>Notification d&rsquo;un bot telegram par domoticz</h1>
+<h2 id=installation>Installation</h2>
+<p><a href=https://fr.wikipedia.org/wiki/Telegram_%28application%29 target=_blank>Telegram</a> est un logiciel de messagerie instanée à l&rsquo;instar de What&rsquo;sApp.</p>
 <p>Installation de telegram sur le telephone.</p>
 <p>Connection avec son numéro de téléphone.</p>
 <p>Discussion avec BotFather.</p>
@@ -153,211 +88,147 @@ Vous allez retrouver votre Chat ID." /><meta property="og:image" content="https:
 <p>&ldquo;botname&rdquo; like Pidomotticz</p>
 <p>&ldquo;username&rdquo; like DomPiBot</p>
 <p>Réponse du bot avec un token.
-Pour le copier coller plus facilement il existe une App télégram web <a href="https://web.telegram.org" target="_blank">https://web.telegram.org</a></p>
+Pour le copier coller plus facilement il existe une App télégram web <a href=https://web.telegram.org target=_blank>https://web.telegram.org</a></p>
 <p>Créé dans l&rsquo;application telegram un nouveau canal.</p>
 <p>Ajouter comme administrateur du canal le nom de notre bot.</p>
 <p>&ldquo;ecrires quelques messages dans le canal&rdquo;</p>
-<p>Aller sur l&rsquo;url <a href="https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/getUpdates" target="_blank">https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates</a>
+<p>Aller sur l&rsquo;url <a href=https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/getUpdates target=_blank>https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates</a>
 Penser à changer le token avec le votre.</p>
 <p>Vous allez retrouver votre Chat ID. Il peut être négatif.</p>
-<p>Tester votre bot avec l&rsquo;url suivante <a href="https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/sendMessage?chat_id=1234567&amp;text=Hello" target="_blank">https://api.telegram.org</a></p>
+<p>Tester votre bot avec l&rsquo;url suivante <a href="https://api.telegram.org/bot784324329:EETRNJU3jQEGWQdjNv3llb4bnDSDREGuuuL/sendMessage?chat_id=1234567&text=Hello" target=_blank>https://api.telegram.org</a></p>
 <p>Les liens utils :
-<a href="https://www.domoticz.com/wiki/Telegram_Bot" target="_blank">doc officiel de domoticz</a> pas mal mais quelques parties obsolètes ou pas très claires.</p>
-<p>Dans domoticz vous pouvez aller dans Réglages=&gt;Paramètres=&gt;Notification.</p>
+<a href=https://www.domoticz.com/wiki/Telegram_Bot target=_blank>doc officiel de domoticz</a> pas mal mais quelques parties obsolètes ou pas très claires.</p>
+<p>Dans domoticz vous pouvez aller dans Réglages=>Paramètres=>Notification.</p>
 <p>En bas à droite vous avez 2 champs télégram avec la clé de l&rsquo;api et le chat id.</p>
-<h2 id="utilisation">Utilisation</h2>
+<h2 id=utilisation>Utilisation</h2>
 <p>Frigo ou congélateur trop chaud</p>
 <p>La box ne répond plus au ping</p>
-<p>&hellip;</p>
-
-    </div>
+<p>&mldr;</p>
+</div>
 </article>
-
-
 <div class="license markdown-body">
-    <blockquote>
-        <p>Sauf indication contraire, le contenu de ce site est mis à disposition selon les termes de la Licence <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"
-               target="_blank">CC BY-NC-SA 4.0</a>.</p>
-    </blockquote>
+<blockquote>
+<p>Sauf indication contraire, le contenu de ce site est mis à disposition selon les termes de la Licence <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/ target=_blank>CC BY-NC-SA 4.0</a>.</p>
+</blockquote>
 </div>
-
-
-<div class="post-comment" data-comment="disqus">
-    <span class="post-comment-notloaded">
-        <i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Télécharger les commentaires
-    </span>
-    <div id="disqus_thread" style="display: none;"></div>
-    <script>
-        function loadComment() {
-            var commentArea = document.querySelector('.post-comment');
-            var disqus_config = function () {
-                this.page.url = 'https:\/\/wakan.github.io\/blog\/domoticz-telegram\/';
-                this.page.identifier = 'domoticz-telegram';
-            };
-            var s = document.createElement('script');
-            s.src = 'https://' + 'wakanpowa' + '.disqus.com/embed.js';
-            s.setAttribute('data-timestamp', +new Date());
-            document.querySelector('#disqus_thread').removeAttribute('style');
-            (document.body || document.head).appendChild(s);
-            document.querySelector('span.post-comment-notloaded').setAttribute('style', 'display: none;');
-        }
-    </script>
+<div class=post-comment data-comment=disqus>
+<span class=post-comment-notloaded>
+<i class="iconfont icon-chatbox-ellipses-sharp"></i>&nbsp;Télécharger les commentaires
+</span>
+<div id=disqus_thread style=display:none></div>
+<script>function loadComment(){var b=document.querySelector('.post-comment'),c=function(){this.page.url='https://wakan.github.io/blog/domoticz-telegram/',this.page.identifier='domoticz-telegram'},a=document.createElement('script');a.src='https://wakanpowa.disqus.com/embed.js',a.setAttribute('data-timestamp',+new Date),document.querySelector('#disqus_thread').removeAttribute('style'),(document.body||document.head).appendChild(a),document.querySelector('span.post-comment-notloaded').setAttribute('style','display: none;')}</script>
 </div>
-
-
-
-            </div>
-            <aside class="col-12 col-md-3 float-left sidebar">
-    
-    <div class="sidebar-item sidebar-pages">
-        <h3>Pages</h3>
-        <ul>
-            
-            <li>
-                <a href="/blog/">Home</a>
-            </li>
-            
-            <li>
-                <a href="/blog/search/">Search</a>
-            </li>
-            
-            <li>
-                <a href="/blog/index.xml">RSS</a>
-            </li>
-            
-        </ul>
-    </div>
-    
-    <div class="sidebar-item sidebar-links">
-        <h3>Liens</h3>
-        <ul>
-            
-            <li>
-                <a href="https://github.com/wakan" target="_blank"><span>GitHub</span></a>
-            </li>
-            
-            <li>
-                <a href="https://twitter.com/wakanpowa" target="_blank"><span>Twitter</span></a>
-            </li>
-            
-        </ul>
-    </div>
-    
-    <div class="sidebar-item sidebar-tags">
-        <h3>Étiquettes</h3>
-        <div>
-            
-        </div>
-    </div>
-    <div class="sidebar-item sidebar-toc">
-        <h3>Table des matières</h3><nav id="TableOfContents">
-  <ul>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#utilisation">Utilisation</a></li>
-  </ul>
+</div>
+<aside class="col-12 col-md-3 float-left sidebar">
+<div class="sidebar-item sidebar-pages">
+<h3>Pages</h3>
+<ul>
+<li>
+<a href=/blog/>Home</a>
+</li>
+<li>
+<a href=/blog/search/>Search</a>
+</li>
+<li>
+<a href=/blog/index.xml>RSS</a>
+</li>
+</ul>
+</div>
+<div class="sidebar-item sidebar-links">
+<h3>Liens</h3>
+<ul>
+<li>
+<a href=https://github.com/wakan target=_blank><span>GitHub</span></a>
+</li>
+<li>
+<a href=https://twitter.com/wakanpowa target=_blank><span>Twitter</span></a>
+</li>
+</ul>
+</div>
+<div class="sidebar-item sidebar-tags">
+<h3>Étiquettes</h3>
+<div>
+</div>
+</div>
+<div class="sidebar-item sidebar-toc">
+<h3>Table des matières</h3><nav id=TableOfContents>
+<ul>
+<li><a href=#installation>Installation</a></li>
+<li><a href=#utilisation>Utilisation</a></li>
+</ul>
 </nav></div>
 </aside>
-
-        </div>
-        <div class="btn">
-    <div class="btn-menu" id="btn-menu">
-        <i class="iconfont icon-grid-sharp"></i>
-    </div>
-    <div class="btn-toggle-mode">
-        <i class="iconfont icon-contrast-sharp"></i>
-    </div>
-    <div class="btn-scroll-top">
-        <i class="iconfont icon-chevron-up-circle-sharp"></i>
-    </div>
 </div>
-<aside class="sidebar-mobile" style="display: none;">
-  <div class="sidebar-wrapper">
-    
-    <div class="sidebar-item sidebar-pages">
-        <h3>Pages</h3>
-        <ul>
-            
-            <li>
-                <a href="/blog/">Home</a>
-            </li>
-            
-            <li>
-                <a href="/blog/search/">Search</a>
-            </li>
-            
-            <li>
-                <a href="/blog/index.xml">RSS</a>
-            </li>
-            
-        </ul>
-    </div>
-    
-    <div class="sidebar-item sidebar-links">
-        <h3>Liens</h3>
-        <ul>
-            
-            <li>
-                <a href="https://github.com/wakan" target="_blank"><span>GitHub</span></a>
-            </li>
-            
-            <li>
-                <a href="https://twitter.com/wakanpowa" target="_blank"><span>Twitter</span></a>
-            </li>
-            
-        </ul>
-    </div>
-    
-    <div class="sidebar-item sidebar-tags">
-        <h3>Étiquettes</h3>
-        <div>
-            
-        </div>
-    </div>
-    
-    
-    
-    <div class="sidebar-item sidebar-toc">
-        <h3>Table des matières</h3>
-        <nav id="TableOfContents">
-  <ul>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#utilisation">Utilisation</a></li>
-  </ul>
+<div class=btn>
+<div class=btn-menu id=btn-menu>
+<i class="iconfont icon-grid-sharp"></i>
+</div>
+<div class=btn-toggle-mode>
+<i class="iconfont icon-contrast-sharp"></i>
+</div>
+<div class=btn-scroll-top>
+<i class="iconfont icon-chevron-up-circle-sharp"></i>
+</div>
+</div>
+<aside class=sidebar-mobile style=display:none>
+<div class=sidebar-wrapper>
+<div class="sidebar-item sidebar-pages">
+<h3>Pages</h3>
+<ul>
+<li>
+<a href=/blog/>Home</a>
+</li>
+<li>
+<a href=/blog/search/>Search</a>
+</li>
+<li>
+<a href=/blog/index.xml>RSS</a>
+</li>
+</ul>
+</div>
+<div class="sidebar-item sidebar-links">
+<h3>Liens</h3>
+<ul>
+<li>
+<a href=https://github.com/wakan target=_blank><span>GitHub</span></a>
+</li>
+<li>
+<a href=https://twitter.com/wakanpowa target=_blank><span>Twitter</span></a>
+</li>
+</ul>
+</div>
+<div class="sidebar-item sidebar-tags">
+<h3>Étiquettes</h3>
+<div>
+</div>
+</div>
+<div class="sidebar-item sidebar-toc">
+<h3>Table des matières</h3>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#installation>Installation</a></li>
+<li><a href=#utilisation>Utilisation</a></li>
+</ul>
 </nav>
-    </div>
-    
-    
-  </div>
+</div>
+</div>
 </aside>
-    </main>
-
-    <footer>
-    <div class="container-lg clearfix">
-        <div class="col-12 footer">
-            
-            <span>&copy; 2016-2021
-                <a href="https://wakan.github.io/blog">wakan</a>
-                 | <a href="https://github.com/wakan/blog">Source code</a> 
-                | Propulsé par <a href="https://github.com/dsrkafuu/hugo-theme-fuji/"
-                   target="_blank">Fuji-v2</a> &amp; <a href="https://gohugo.io/"
-                                                    target="_blank">Hugo</a> 
-            </span>
-        </div>
-    </div>
+</main>
+<footer>
+<div class="container-lg clearfix">
+<div class="col-12 footer">
+<span>&copy; 2016-2022
+<a href=https://wakan.github.io/blog>wakan</a>
+| <a href=https://github.com/wakan/blog>Source code</a>
+| Propulsé par <a href=https://github.com/dsrkafuu/hugo-theme-fuji/ target=_blank>Fuji-v2</a> & <a href=https://gohugo.io/ target=_blank>Hugo</a>
+</span>
+</div>
+</div>
 </footer>
-
-    
-<script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-core.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/prismjs@1.23.0/plugins/autoloader/prism-autoloader.min.js"></script>
-
-
-
-<script defer src="/blog/assets/js/fuji.min.js"></script>
-
-
-
+<script defer src=https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js></script>
+<script defer src=https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js></script>
+<script defer src=https://cdn.jsdelivr.net/npm/prismjs@1.23.0/components/prism-core.min.js></script>
+<script defer src=https://cdn.jsdelivr.net/npm/prismjs@1.23.0/plugins/autoloader/prism-autoloader.min.js></script>
+<script defer src=/blog/assets/js/fuji.min.js></script>
 </body>
-
 </html>
