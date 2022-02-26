@@ -3,6 +3,7 @@ date = "2016-10-24T19:42:21+02:00"
 draft = false
 title = "Attaque ddos"
 categories = [ "Hacking", "Informatique" ]
+tags = [ "Hacking", "Informatique" ]
 +++
 
 # Dyn : attaque DDoS
