@@ -25,7 +25,7 @@ paginate = 10
     path = "/search/"
 
 [outputs]
-  home = ["HTML", "RSS", "AMP"]
+  home = ["HTML", "RSS", "AMP", "SearchIndex"]
 
 [permalinks]
   post = "/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
@@ -56,7 +56,7 @@ paginate = 10
   showLicenseInFooter = false
 
   # License at the end of each post
-  showLicense = true
+  showLicense = fase
   showToc = true
 
   # Copyright
@@ -64,7 +64,7 @@ paginate = 10
 
   # Open Graph & Twitter Card variables
   # You can also set description and images in post front matter individually
-  description = "Un mix de glandouille, informatique, drone, iles et sutour des tests divers"
+  description = "Un mix de glandouille, informatique, drone, iles et surtout des tests divers"
   og = "/img/wakan.jpg" # This will use the image called og.png in static/img folder
 
   # Posts shown in homepage
