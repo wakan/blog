@@ -56,7 +56,7 @@ paginate = 10
   showLicenseInFooter = false
 
   # License at the end of each post
-  showLicense = fase
+  showLicense = false
   showToc = true
 
   # Copyright
