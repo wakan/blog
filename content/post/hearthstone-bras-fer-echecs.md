@@ -1,5 +1,5 @@
 +++
-date = "2016-10-06T10:48:31+02:00"
+publishDate = "2016-10-06T10:48:31+02:00"
 draft = false
 title = "Hearthstone, bras fer echecs pour la semaine 201640"
 categories = [ "Game", "Hearthstone" ]

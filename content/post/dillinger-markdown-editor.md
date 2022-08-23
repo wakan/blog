@@ -1,5 +1,5 @@
 +++
-date = "2016-10-10T07:42:21+02:00"
+publishDate = "2016-10-10T07:42:21+02:00"
 draft = false
 title = "Remarque sur l'éditeur de markdown de dillinger"
 categories = [ "Blog", "Markdown" ]

@@ -1,5 +1,5 @@
 +++
-date = "2019-03-20T18:04:04+01:00"
+publishDate = "2019-03-20T18:04:04+01:00"
 draft = false
 title = "Domoticz et telegram"
 categories = [ "domotique", "domoticz", "telegram", "bot", "clé d'api", "chat id" ]
@@ -31,7 +31,7 @@ Ajouter comme administrateur du canal le nom de notre bot.
 
 "ecrires quelques messages dans le canal"
 
-Aller sur l'url [https://api.telegram.org/bot784324329:EETXXXGuuuL/getUpdates]
+Aller sur l'url [https://api.telegram.org/bot784324329:EETXXXGuuuL/getUppublishDates]
 Penser à changer le token avec le votre.
 
 Vous allez retrouver votre Chat ID. Il peut être négatif.

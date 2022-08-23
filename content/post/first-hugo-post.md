@@ -1,5 +1,5 @@
 +++
-date = "2016-10-05T10:26:13+02:00"
+publishDate = "2016-10-05T10:26:13+02:00"
 draft = false
 title = "Remarques sur le générateur de site hugo"
 categories = [ "Blog", "Hugo" ]

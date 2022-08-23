@@ -1,5 +1,5 @@
 +++
-date = "2021-08-17T13:04:04+02:00"
+publishDate = "2021-08-17T13:04:04+02:00"
 draft = false
 title = "Verification des liens morts sur vos site web"
 categories = [ "web", "404", "deadlink"]
