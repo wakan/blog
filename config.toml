@@ -10,16 +10,8 @@ theme = "fuji"
 timezone = "Europe/Paris"
 title = "WaKaN's blog"
 
-
-[outputFormats]
-  [outputFormats.SearchIndex]
-    isPlainText = true
-    notAlternative = true
-    mediaType = "application/json"
-    path = "/search/"
-
 [outputs]
-  home = ["HTML", "RSS", "AMP", "SearchIndex"]
+  home = ["HTML", "RSS", "AMP"]
 
 [permalinks]
   post = "/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
@@ -36,19 +28,12 @@ title = "WaKaN's blog"
   showWordCounter = true
   showReadTime = true
 
-  # License in the footer
-  showLicenseInFooter = false
-
-  # License at the end of each post
-  showLicense = false
   showToc = true
 
   copyrightStartYear = "2016"
 
-  # Open Graph & Twitter Card variables
-  # You can also set description and images in post front matter individually
   description = "Un mix de glandouille, informatique, drone, iles et surtout des tests divers"
-  og = "/img/wakan.jpg" # This will use the image called og.png in static/img folder
+  og = "/img/wakan.jpg"
 
   # Posts shown in homepage
   mainSections = ["post"]
@@ -60,17 +45,7 @@ title = "WaKaN's blog"
   license = "CC BY-NC-SA 4.0"
   licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
-  # Comments
-  # utterances, see: https://utteranc.es/
-  # utterancesRepo = "*/*"
-  # utterancesIssueTerm = "pathname"
-
-  # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
   disqusShortname = "wakanpowa"
-  # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
-  # If you want to set multiple api key, see theme's README for more details
-  # disqusJSApi = "https://*********/"
-  # disqusJSApikey = "**********"
 
   # custom lazyload placeholder
   # 16:9
