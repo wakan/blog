@@ -1,4 +1,3 @@
-[params]
   author = "wakan" # You can also set author in post front matter individually
   subTitle = "Microsoft fan blog's."
   defaultTheme = "auto" # default theme when first visit (auto|dark|light)
