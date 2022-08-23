@@ -10,5 +10,5 @@ theme = "fuji"
 timezone = "Europe/Paris"
 title = "WaKaN's blog"
 
-[Ouputs]
+[ouputs]
   home = ["HTML", "RSS", "AMP"]

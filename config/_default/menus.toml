@@ -1,17 +1,17 @@
-  [[menu.nav]]
+  [[nav]]
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.nav]]
+  [[nav]]
     name = "RSS"
     url = "/index.xml"
     weight = 5
 
-  [[menu.link]]
+  [[link]]
     name = "GitHub"
     url = "https://github.com/wakan"
     weight = 1
-  [[menu.link]]
+  [[link]]
     name = "Twitter"
     url = "https://twitter.com/wakanpowa"
     weight = 2
