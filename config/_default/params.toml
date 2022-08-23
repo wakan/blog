@@ -1,0 +1,41 @@
+[params]
+  author = "wakan" # You can also set author in post front matter individually
+  subTitle = "Microsoft fan blog's."
+  defaultTheme = "auto" # default theme when first visit (auto|dark|light)
+
+  # Source URL of the website, will appear in the footer
+  sourceURL = "https://github.com/wakan/blog"
+
+  # Word counter and read time indicator in post metadata
+  showWordCounter = true
+  showReadTime = true
+
+  showToc = true
+
+  copyrightStartYear = "2016"
+
+  description = "Un mix de glandouille, informatique, drone, iles et surtout des tests divers"
+  og = "/img/wakan.jpg"
+
+  # Posts shown in homepage
+  mainSections = ["post"]
+
+  # Bangumi image chart id
+  # bgmImageChart = "000000"
+
+  # License
+  license = "CC BY-NC-SA 4.0"
+  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  disqusShortname = "wakanpowa"
+
+  # custom lazyload placeholder
+  # 16:9
+  lazyPlaceholder = "/assets/lazyload/dsrca_loading_480x270.svg"
+  # 32:9
+  lazyPlaceholderRow = "/assets/lazyload/dsrca_loading_960x270.svg"
+  # 8:9
+  lazyPlaceholderCol = "/assets/lazyload/dsrca_loading_480x540.svg"
+
+  # Let images display in full brightness under dark mode
+  # disableDarkImage = true
