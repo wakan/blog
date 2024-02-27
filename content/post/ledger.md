@@ -35,9 +35,9 @@ Le seul element a eclaircir pour elle, serait d'installer les applications sur l
 
 Pour transferer de la crypto sur le ledger, il suffit d'installer l'appli correspondante a la crypto plus de 10 000 sur le ledger a l'heure actuelle. Dans l'application ledger live, il faut ajouter un nouveau compte depuis le ledger et transferer le fond vers l'adresse du compte. Voici les miennes pour exemples 
 
-Bitcoin : 
+Bitcoin : bc1qw47dtvzkptesu5e8v9ts4w8pu87lfnhlhtexyh
 
-Ethereum : 
+Ethereum : 0x1EA6ebb6593DbcC2Bd8466D86CA899766a34609B
 
 Posibilite de stacking a l'heure actuel. Cela va surement beaucoup changer dans l'avenir
 
