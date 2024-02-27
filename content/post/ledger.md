@@ -61,8 +61,10 @@ Le tutoriel du blog officiel marche bien je vous le mets ici en lien [Tutoriel d
 
 Il y avait une partie 
 > To use this key with your usual SSH Agent and Git, etc
+
 qui n'etait pas assez claire pour moi et qui ma donc fait perdre un peu de temps 
 > echo "<ssh://username@hostname|nist256p1>" > "$HOME/.ssh/nanox-keys.conf.pub"
+
 Doit etre remplacer par 
 ```console
 $ echo "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBCSu3oGKedvLzJpzQr0kGCr7eIyXy67zszMcQCnDUmeAzqlZt9skK0vM/HDquta8vNH77Y9gfjaEWozzfpYCSe0= <ssh://username@hostname|nist256p1>"  > "$HOME/.ssh/nanox-keys.conf.pub"
