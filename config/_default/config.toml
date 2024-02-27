@@ -2,9 +2,11 @@ baseURL = "https://wakan.github.io/blog"
 defaultContentLanguage = "fr"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 enableGitInfo = true
 languageCode = "fr"  # For RSS, view https://www.rssboard.org/rss-language-codes
+noChmod = true
+noTimes = true
 paginate = 21
 summaryLength = 200 # Custom summary length, add <!--more--> in post file to custom split point
-theme = "soho"
+theme = "fuji"
 timezone = "Europe/Paris"
 title = "WaKaN's blog"
 
