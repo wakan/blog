@@ -11,7 +11,3 @@
     name = "GitHub"
     url = "https://github.com/wakan"
     weight = 1
-  [[link]]
-    name = "Twitter"
-    url = "https://twitter.com/wakanpowa"
-    weight = 2
