@@ -69,6 +69,13 @@ Doit etre remplacer par
 ```console
 $ echo "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBCSu3oGKedvLzJpzQr0kGCr7eIyXy67zszMcQCnDUmeAzqlZt9skK0vM/HDquta8vNH77Y9gfjaEWozzfpYCSe0= <ssh://username@hostname|nist256p1>"  > "$HOME/.ssh/nanox-keys.conf.pub"
 ```
+
+# Tracker
+
+Je suis de retour apres une semaine d'utilisation pour un petit update, c'est quand meme dommage que sur l'application android [Ledger Live](https://play.google.com/store/apps/details?id=com.ledger.live&hl=fr&gl=US&pli=1), il y a d'apres l'application de detection de tracker [Exodus](https://exodus-privacy.eu.org/fr/) 6 pister dont [Facebook](https://facebook.com/), [Google analytics](https://analytics.google.com/), [Goodle tag manager](https://tagmanager.google.com/).
+
+Sinon mis a part ca ca marche toujours tres bien malgre de nombreuses bidouilles en tout genre.
+
 # Conclusion
 
 Je ne regrette pour le moment pas mon achat. Est-ce que je vais assez m'en servir pour l'investissement que ca repressente, c'est une autre question ?
