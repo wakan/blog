@@ -80,4 +80,4 @@ Sinon mis a part ca ca marche toujours tres bien malgre de nombreuses bidouilles
 
 Je ne regrette pour le moment pas mon achat. Est-ce que je vais assez m'en servir pour l'investissement que ca repressente, c'est une autre question ?
 
-2 mois après, je m'en sert uniquement pour stocker ma crypto. Je trouves ca un peu plus sure que meta mask.
+5 mois après, je m'en sert uniquement pour stocker ma crypto. Je trouves ca un peu plus sure que meta mask.
