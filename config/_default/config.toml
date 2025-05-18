@@ -7,6 +7,7 @@ noTimes = true
 summaryLength = 200 # Custom summary length, add <!--more--> in post file to custom split point
 timezone = "Europe/Paris"
 title = "WaKaN's blog"
+theme = "terminal"
 
 [ouputs]
   home = ["HTML", "RSS", "AMP"]
