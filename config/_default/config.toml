@@ -1,4 +1,4 @@
-baseURL = "https://wakan.github.io/blog"
+baseURL = "https://wakan.github.io"
 defaultContentLanguage = "fr"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl, it
 enableGitInfo = true
 languageCode = "fr-FR"  # For RSS, view https://www.rssboard.org/rss-language-codes
