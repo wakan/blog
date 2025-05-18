@@ -6,3 +6,4 @@ display_toc = true
 
 
 contentTypeName = "posts"
+readingTime = true
