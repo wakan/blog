@@ -1,15 +1,15 @@
   [[menus.main]]
-    name = "Home"
-    pageRef = "/"
+    name = 'Home'
+    pageRef = '/'
     weight = 10
   [[menus.main]]
-    name = "RSS"
-    pageRef = "/index.xml"
+    name = 'RSS'
+    pageRef = '/index.xml'
     weight = 50
 
   [[menus.main]]
-    name = "GitHub"
-    url = "https://github.com/wakan"
+    name = 'GitHub'
+    url = 'https://github.com/wakan'
     weight = 10
     [menus.main.params]
       rel = 'external'
