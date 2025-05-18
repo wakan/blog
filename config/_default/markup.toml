@@ -1,9 +1,5 @@
-  [goldmark]
+  [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Enable user to embed HTML snippets in Markdown content
-  [highlight]
+  [markup.highlight]
     codeFences = false  # Disable Hugo's code highlighter
-
-  [tableOfContents]
-    startLevel = 2
-    endLevel = 3
