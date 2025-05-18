@@ -1,3 +1,4 @@
+[menus]
   [[menus.main]]
     name = 'Home'
     pageRef = '/'
