@@ -7,3 +7,21 @@ display_toc = true
 
 contentTypeName = "posts"
 readingTime = true
+[languages]
+  [languages.fr]
+    languageName = "Francais"
+    title = "WaKaN's blog"
+
+    [languages.fr.params]
+      subtitle = "Microsoft fan blog's."
+      owner = "wakan"
+      copyright = ""
+
+      [languages.fr.params.logo]
+        logoText = "WaKaN"
+        logoHomeLink = "/"
+
+      [languages.fr.menu]
+        [[languages.fr.menu.main]]
+          name = "GitHub"
+          url = "https://github.com/wakan"
