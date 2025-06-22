@@ -6,7 +6,7 @@ tags = [ "Vie", "Philosophie" ]
 +++
 # Vision du monde
 
-## Est-ce que nous pouvons encore decouvrir le monde tel qu'il est ou alors est on obliger de le decouvrir tel que l'on veut pour vous le montrer ?
+## Est-ce que nous pouvons encore decouvrir le monde tel qu'il est ou alors est on obliger de le decouvrir tel que l'on veut vous le montrer ?
 
 A developper
 Encore et encore
