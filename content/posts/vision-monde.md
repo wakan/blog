@@ -1,5 +1,5 @@
 +++
-publishDate = "2025-06-22T14:35:04+02:00"
+publishDate = "2025-06-22T11:35:04+02:00"
 draft = false
 title = "Vision du monde"
 categories = [ "Vie", "Philosophie" ]
