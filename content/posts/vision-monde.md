@@ -2,7 +2,7 @@
 publishDate = "2025-06-22T11:35:04+02:00"
 draft = false
 title = "Vision du monde"
-categories = [ "Vie", "Philosophie" ]
+tags = [ "Vie", "Philosophie" ]
 +++
 # Vision du monde
 
